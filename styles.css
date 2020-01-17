@@ -1,0 +1,11 @@
+h2.intro {
+  color: red;
+}
+p.intro {
+  color: blueviolet;
+  font-style: italic;
+}
+
+img.intro {
+  opacity: 0.5;
+}
